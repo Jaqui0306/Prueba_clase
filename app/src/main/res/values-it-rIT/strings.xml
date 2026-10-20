@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Prova</string>
+    <string name="nombre">Juana Jaqueline</string>
+    <string name="materia">Sviluppo di app mobili</string>
+    <string name="apellidos">Zavala Guzman</string>
+    <string name="home_screen">vfcfq</string>
+    <string name="back_btn_desc">Tornare</string>
+    <string name="bottom_app_bar">fondo</string>
+    <string name="home_fab_text">Aggiungere</string>
+    <string name="snackbar_message">I am a Snackbar!</string>
+    <string name="snackbar_action">Do something</string>
+</resources>

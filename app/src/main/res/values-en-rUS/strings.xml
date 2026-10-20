@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Test</string>
+    <string name="nombre">Juana Jaqueline</string>
+    <string name="materia">Movil app development</string>
+    <string name="apellidos">Zavala Guzman</string>
+    <string name="home_screen">vfcfq</string>
+    <string name="back_btn_desc">To return</string>
+    <string name="bottom_app_bar">Background</string>
+    <string name="home_fab_text">Add</string>
+    <string name="snackbar_message">I am a Snackbar!</string>
+    <string name="snackbar_action">Do something</string>
+</resources>
